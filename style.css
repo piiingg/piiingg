@@ -1,0 +1,39 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 70%;
+    margin: 0 auto;
+    font: 100% Calibri, Helvetica, sans-serif;
+    padding: 1em 50px;
+    background: white;
+}
+h1 {
+    font-family: Calibri, "Times New Roman", Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+    margin: 0 0 .4em;
+    padding: 5px 10px;
+}
+h3 {
+ font-family: Calibri, "Times New Roman", Times, serif;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0 0 .4em;
+  padding: 5px 10px;
+}
+p {
+    line-height: 1.6;
+    text-align: justify;
+    width: 60%;
+    margin: 0;
+    margin-bottom: 1em;
+}
+a {
+    text-decoration: none;
+    color: pink;
+}
+a:hover {
+    color: black;
+}
